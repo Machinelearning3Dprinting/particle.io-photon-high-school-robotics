@@ -10,7 +10,7 @@
 Link to my web page
 
 
-https://machinelearning3dprinting.github.io/particle.io-photon-high-school-robotics/a06-web-app/ web-app.html
+https://machinelearning3dprinting.github.io/particle.io-photon-high-school-robotics/a06-web-app/web-app.html
 
 
 
